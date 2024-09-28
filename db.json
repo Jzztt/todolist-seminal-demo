@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "status": "done",
+      "title": "Handle errors response"
+    },
+    {
+      "id": 2,
+      "status": "in-progress",
+      "title": "Build create ticket component"
+    },
+    {
+      "id": 3,
+      "status": "to-do",
+      "title": "Build update ticket component"
+    }
+  ]
+}
